@@ -14,6 +14,6 @@ It allows users to add, view, and manage their daily expenses.
 - Dart
 
 ## ✨ Author:
-- Abhinav M 
+- Abhinav M(https://github.com/Itss-Abhinav)
 
 
